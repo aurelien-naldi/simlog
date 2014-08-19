@@ -1,0 +1,62 @@
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+classes/
+build/
+testbuild/
+testreports/
+dist/
+bin/
+target
+GINsim-*.jar
+GINsim.app
+bak/
+testCase/tmp
+.factorypath
+testfiles/*/tmp
+
+# compressed files #
+############
+*.7z
+*.dmg
+*.gz
+*.iso
+*.rar
+*.tar
+*.zip
+
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
+error.txt
+trace.txt
+info.txt
+
+# OS generated files #
+######################
+.DS_Store
+ehthumbs.db
+Icon?
+Thumbs.db
+
+# Editor tmp files #
+####################
+*~
+*.backup
+*.tmp
+*.swp
+.classpath
+.project
+.settings
+*.jpx
+*.jpx.local
+*.cld
+*.iml
+.idea

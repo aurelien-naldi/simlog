@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Class-Path: stax2-api-3.0.3.jar commons-dbcp-1.2.2.jar woodstox-core-l
+ gpl-4.0.9.jar jsbml-1.0-20130823.224728-2.jar LogicalModel-0.2-SNAPSH
+ OT.jar log4j-1.2.8.jar core-1.8.1.jar MDDlib-0.2-20140103.115957-9.ja
+ r bytecode-1.8.1.jar jigsaw-2.2.6.jar qual-1.0-20130823.224816-2.jar 
+ commons-pool-1.3.jar xpp3_min-1.1.4c.jar layout-1.0-20130823.224801-2
+ .jar LogicalModel-0.2-SNAPSHOT.jar MDDlib-0.2-20140103.115957-9.jar s
+ taxmate-2.0.0.jar stax-api-1.0-2.jar xstream-1.3.1.jar stax-api-1.0.1
+ .jar
+Main-Class: org.colomoto.simulation.Launcher
+
